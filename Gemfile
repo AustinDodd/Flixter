@@ -67,6 +67,7 @@ gem 'jquery-rails'
 gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
 
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
@@ -75,10 +76,21 @@ gem 'simple_form'
 
 gem 'devise'
 
+# For image uploading
 gem 'carrierwave', '~> 1.0'
-
+gem 'figaro'
+gem 'fog-aws'
 gem 'mini_magick'
+gem 'carrierwave-aws'
 
+# Payments
+gem 'stripe'
+
+# Lesson Pages
+gem 'ranked-model'
+gem 'jquery-ui-rails'
+
+gem 'font-awesome-rails'
 
 
 
