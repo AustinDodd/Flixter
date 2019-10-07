@@ -3,5 +3,6 @@ AWS_SECRET_KEY: "OWZ93TT8gbOfQireq/nU6FSTFxS7eTZvgFPgRZX7"
 AWS_BUCKET: "flxter-bucket-austin"
 AWS_REGION:     "us-east-1"
 
-SECRET_KEY: ''
-PUBLISHABLE_KEY: ''
+SECRET_KEY: 'sk_test_KX8v7vVvfoadzGCDvxEQxSts005fmu2de7'
+PUBLISHABLE_KEY: 'pk_test_NBqOyXBOlhDGehbATX3ox25Q00xmRphkLt'
+
