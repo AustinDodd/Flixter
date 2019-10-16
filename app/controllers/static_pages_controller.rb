@@ -1,7 +1,15 @@
 class StaticPagesController < ApplicationController
-  before_action :authenticate_user!
+ 
+    def index
+    end
+  
+    def privacy
+    end
 
-  def index
-  end
+    def career
+    end
+  
+    def team
+    end
   
 end
